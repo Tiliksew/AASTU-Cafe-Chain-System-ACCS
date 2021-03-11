@@ -1,0 +1,52 @@
+
+.bolds{
+    -fx-font-weight:bold;
+    -fx-font-size:20;
+}
+
+.food-cart{
+    -fx-border-width:3px;
+    -fx-border-color:red;
+    /*-fx-background-color:#ccc;*/
+    -fx-padding:10px;
+    -fx-border-radius:10px;
+
+}
+.cafe-name{
+    -fx-text-fill:#626262;
+    -fx-font-weight:bold;
+    -fx-font-size:20px;
+}
+
+.rating{
+    -fx-text-fill:#e8491d;
+    -fx-font-weight:bold;
+    -fx-font-size:20px;
+}
+
+.buy{
+    -jfx-button-type:RAISED;
+    -fx-background-color:#e8491d;
+    -fx-text-fill:white;
+    -fx-font-weight:bold;
+    -fx-background-radius:50;
+    -fx-pref-width:150;
+    -fx-pref-height:30;
+    -fx-font-size:10;
+}
+
+.big-buttons{
+    -jfx-button-type:RAISED;
+    -fx-text-fill:#fff;
+    -fx-font-weight:bold;
+    -fx-background-radius:50;
+    -fx-pref-width:150;
+    -fx-pref-height:50;
+}
+
+#btn-sign-up{
+    -fx-background-color:#e8491d;
+}
+#btn-log-in{
+    -fx-background-color:#616161;
+}
